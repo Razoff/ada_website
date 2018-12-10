@@ -25,5 +25,7 @@ github_username:    jekyll
 instagram_username: jekyllrb
 twitter_username:   jekyllrb
 
+theme: Libretto
+
 # Build settings
 markdown: kramdown
