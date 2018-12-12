@@ -1,4 +1,3 @@
-i
 
 # The bias in international news coverage
 
