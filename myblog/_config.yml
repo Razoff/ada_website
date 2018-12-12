@@ -3,3 +3,4 @@ description: "AdA Milestone 3 : The website"
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
+exclude: [vendor]
