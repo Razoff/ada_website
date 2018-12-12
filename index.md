@@ -45,7 +45,7 @@ def src_to_country_v2(web_data): # Look at extension if fail go for ip alpha 3
 Here is an awesome map
 
 <figure>
-	<img src="{{ site.baseurl }}/assets/plot_03.png" alt="image">
+	<img src="./assets/plot_03.png" alt="image">
 	<figcaption>
 		There is the information concentration or something like that
 	</figcaption>
