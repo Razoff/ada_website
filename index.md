@@ -37,6 +37,13 @@
  	<img src="{{ site.baseurl }}/assets/clusters.png" alt="image">
 </figure>
 
+<p>From the results it seems fairly obvious that theme-wise news outlet are polarized. The next field we investigated was the following. We tried to find waht the underlying themes were reguarding the clustering algorithm. By diving into the decomposition we managed to output the underlying features of the themes regarding to the sources. </p>
+
+<figure>
+	<img src="{{ site.baseurl }}/assets/theme01.png" alt="image">
+</figure>
+
+<a href=http://www.google.ch/> lol </a>
 
 <iframe src="./assets/plot_high.html" frameborder="0" scrolling="no" height="720" width="960"></iframe>
 
