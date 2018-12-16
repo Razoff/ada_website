@@ -1,63 +1,34 @@
 
 # The bias in international news coverage
 
-With the development of new technologies, people have access to tremendous amounts of sources to keep up with the events of the world. This increase of sources made it nearly impossible for people to get a sense of how biased the media are in transferring the facts and events. With an increasing number of sources, there is increasing risks of misinformation. The goal of our project is to raise awareness of the potential bias of news sources in each country and develop a visual representation to demonstrate it. To that aim, we used the dataset provided by the GDELT project which contains the key information needed to investigate international news coverage. The idea is to offer textual analysis and graphical content to present the results. We will include node graphs linking sources to one another and maps that will indicate the different characteristics of media coverage in different countries.
+Find aticle that is meaningful to introduce doubt.
+
+Today, people have access to more and more information. This increase in information comes in different aspect but in the end the main cause of this phenomena is the worldwide connection between people.
+
+Now every event in the world can be cover and present to a global audiance in less than a couple of hours. This led to an increase of popularity for international news outlet. Those company can reach to million of people in no time. 
+
+The quickness of the information highway is thrilling but it raises question. We as people have all been guilty at least onece to be a little bit too quick on jugement be it on someone or something and in an era of international coverage where international journalist are covering domestic event the question of impartility is even more actual. 
+
+The goal of this blog is to highlight the notion of bias in todays jounalism. The tool we have to work on this are a the <a href= https://www.gdeltproject.org/> GDELT Project </a> database and a computer.
+
+### GDELT Project
+
+Since the GDELT dataset will be our main analyse tool let's have a quick look at it. It is a project maintained by google. A huge database that is acualized every fifteen minutes with input of event all around the world.
+
+To keep it simple every quarter of an hour three new files are uploaded on the server. 
+
+<li> <b>Export :</b>This file holds all the individual event and their geographical informations. It basically answers the questions: Where? Who? What? </li>
+
+<li> <b>Mentions :</b>Each entry in this file is when a news outlet mention one event. It also holds some semantic information about the article like its tone. </li>
+
+<li> <b>GkG :</b> It is a knowledge graph of the GDELT project  it connects every trait of all organisation and event across the planet into a single massive network that captures what’s happening around the world </li>
+
+With these informations available we could not go wrong so lets look at what we managed to get out of it.  
+
+## Let's talk about news
 
 
-## Website lookup
 
-
-In this section we will display a code sniplet to show how awesome this blog is
-
-{% highlight ruby %}
-
-def src_to_country_v2(web_data): # Look at extension if fail go for ip alpha 3 
-    def extension_lookup(website):
-        site, _ = get_map_site() # Get dictionary Extensions to County code
-        try:
-            return site[str('.') + website.split('.')[-1]]
-        except:
-            return None
-        
-    def ip_lookup(website):
-        try:
-            obj = IPWhois(socket.gethostbyname(website))
-            results = obj.lookup_rdap(obj)
-            country = pycountry.countries.get(alpha_2=results['asn_country_code'])
-            return country.alpha_3
-        except:
-            return None
-        
-    def two_way_lookup(website):
-        ret = extension_lookup(website)
-        if ret == None:
-            ret = ip_lookup(website)
-            return ret
-        return ret
-        
-    return web_data.map(lambda x: two_way_lookup(x))
-
-{% endhighlight %}
-
-## Map
-
-Here is an awesome map
-
-<figure>
-	<img src="./assets/plot_03.png" alt="image">
-	<figcaption>
-		There is the information concentration or something like that
-	</figcaption>
-</figure>
-
-Pretty amazing right ?
-
-<figure>
-	<img src="{{ site.baseurl }}/assets/plot_04.png" alt="image">
-	<figcaption>
-		Spaaace
-	</figcaption>
-</figure>
 
 The end
 
