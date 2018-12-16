@@ -1,5 +1,5 @@
 
-# The bias in international news coverage
+<h1> The bias in international news coverage </h1>
 
 <p>Find aticle that is meaningful to introduce doubt.<p>
 
@@ -11,7 +11,7 @@
 
 <p>The goal of this blog is to highlight the notion of bias in todays jounalism. The tool we have to work on this are a the <a href= https://www.gdeltproject.org/> GDELT Project </a> database and a computer.</p>
 
-### GDELT Project
+<h3> GDELT Project </h3> 
 
 <p>Since the GDELT dataset will be our main analyse tool let's have a quick look at it. It is a project maintained by google. A huge database that is acualized every fifteen minutes with input of event all around the world.</p>
 
@@ -25,7 +25,7 @@
 
 <p>With these informations available we could not go wrong so lets look at what we managed to get out of it.</p> 
 
-## Let's talk about news
+<h2> Let's talk about news </h2>
 
 <p>a</p>
 
