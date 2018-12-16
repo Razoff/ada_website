@@ -13,9 +13,9 @@
 
 ### GDELT Project
 
-Since the GDELT dataset will be our main analyse tool let's have a quick look at it. It is a project maintained by google. A huge database that is acualized every fifteen minutes with input of event all around the world.
+<p>Since the GDELT dataset will be our main analyse tool let's have a quick look at it. It is a project maintained by google. A huge database that is acualized every fifteen minutes with input of event all around the world.</p>
 
-To keep it simple every quarter of an hour three new files are uploaded on the server. 
+<p>To keep it simple every quarter of an hour three new files are uploaded on the server.</p> 
 
 <li> <b>Export :</b>This file holds all the individual event and their geographical informations. It basically answers the questions: Where? Who? What? </li>
 
@@ -23,11 +23,11 @@ To keep it simple every quarter of an hour three new files are uploaded on the s
 
 <li> <b>GkG :</b> It is a knowledge graph of the GDELT project  it connects every trait of all organisation and event across the planet into a single massive network that captures what’s happening around the world </li>
 
-With these informations available we could not go wrong so lets look at what we managed to get out of it.  
+<p>With these informations available we could not go wrong so lets look at what we managed to get out of it.</p> 
 
 ## Let's talk about news
 
-
+<p>a</p>
 
 
 The end
