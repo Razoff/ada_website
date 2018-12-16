@@ -33,7 +33,8 @@
 
 <p>From this bag of word we appllied the PCA decomposition. And by using a eigenvector factorisation with some unsupervised machine learning algorithm (Kmeans) for clustering we managed to plot a map of the proximity between the 5000 news outlet with the most themes cited. </p>
 
-<iframe src=".assets/clusters.png" frameborder="0" scrolling="no" height="720" width="960"></iframe>
+![Branching]("./assets/clusters.png")
+
 
 <iframe src="./assets/plot_high.html" frameborder="0" scrolling="no" height="720" width="960"></iframe>
 
