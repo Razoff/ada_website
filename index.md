@@ -57,17 +57,24 @@
 
 <p>To highlight this matter we took advantages of the geographical informations provided by the dataset. The following interactive map is showing how the information is unevenly distributed. </p>
 
-<iframe src="./assets/plot_high_2.html" frameborder="0" scrolling="no" height="720" width="960"></iframe>
+<iframe src="./assets/plot_high_2.html" frameborder="0" scrolling="no" height="500" width="960"></iframe>
 
-<p>The representation emphasis clearly that the ditribution of event is centered on the USA the western Europe and the come of the middle east countries. Even if there are many event in other country as well all bubbles that really stands out of the rest is for one of the region mentioned before. </p>
+<p>The representation emphasize clearly that the ditribution of event is centered on the USA the western Europe and the come of the middle east countries. Even if there are many event in other country as well all bubbles that really stands out of the rest is for one of the region mentioned before. </p>
 
 <p> This phenomena can be explained in different ways. First, many of the international news outlets (we are talking about the really big ones that covers everythin 24/7) are based either in the United State or in Europe (mostly England). It seems that the anglo-saxon countries holds a lot of power influence wise. Their articles are the most represented over the planet which makes at the same time very interesting and very dangerous.</p>
 
-<figure>
+<!--<figure>
 	<img src="{{ site.baseurl }}/assets/coverage_animation.gif" alt="image">
-</figure>
+</figure> -->
 
 <h2> The measure and visualisation of bias </h2>
 
-<p>From the beginning we went through different question and analysis but we left the biggest question on hold. We found that the news were polarised and unevenly distributed but does   </p>
+<p>From the beginning we went through different question and analysis but we left the biggest question on hold. We found that the news were polarised and unevenly distributed but does this really mean that there is a consistant bias in the related informations ?</p>
 
+<p>To emphasize both the polarity and the uneven ditribution and see what can be the impact for the public on the long run we focus our anlysis on the way american news sources report events all around the world.</p>
+
+<p> PUT VISUALITION HERE </p>
+
+<p>pp </p>
+
+<h2> Conclusion </h2>
