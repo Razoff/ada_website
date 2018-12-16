@@ -9,7 +9,7 @@
 
 <p>The quickness of the information highway is thrilling but it raises question. We as people have all been guilty at least onece to be a little bit too quick on jugement be it on someone or something and in an era of international coverage where international journalist are covering domestic event the question of impartility is even more actual.</p> 
 
-<p>The goal of this blog is to highlight the notion of bias in todays jounalism. The tool we have to work on this are a the <a href=https://www.gdeltproject.org/> GDELT Project </a> database and a computer.</p>
+<p>The goal of this blog is to highlight the notion of bias in todays jounalism. The tool we have to work on this are a the GDELT Project database and a computer.</p>
 
 <h3> GDELT Project </h3> 
 
@@ -27,10 +27,13 @@
 
 <h2> Let's talk about news </h2>
 
-<p></p>
+<p>The first thing we wanted to confirm the hypothesys. Is constant lack of objectivity from news outlet ?</p>
 
+<p>We started our investigation using tools gathered during the lecture. We noticed that on every knowledge graph sources are matched with the themes addressed in each of their article. By taking inspiration of the <i>bag of words</i> approach we managed to aggregate enough data to do a <i>bag of themes</i> matrix.</p>
 
-The end
+<p>From this bag of word we appllied the PCA decomposition. And by using a eigenvector factorisation with some unsupervised machine learning algorithm (Kmeans) for clustering we managed to plot a map of the proximity between the 5000 news outlet with the most themes cited. </p>
+
+<iframe src=".assets/clusters.png" frameborder="0" scrolling="no" height="720" width="960"></iframe>
 
 <iframe src="./assets/plot_high.html" frameborder="0" scrolling="no" height="720" width="960"></iframe>
 
