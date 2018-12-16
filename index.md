@@ -1,15 +1,15 @@
 
 # The bias in international news coverage
 
-Find aticle that is meaningful to introduce doubt.
+<p>Find aticle that is meaningful to introduce doubt.<p>
 
-Today, people have access to more and more information. This increase in information comes in different aspect but in the end the main cause of this phenomena is the worldwide connection between people.
+<p>Today, people have access to more and more information. This increase in information comes in different aspect but in the end the main cause of this phenomena is the worldwide connection between people.</p>
 
-Now every event in the world can be cover and present to a global audiance in less than a couple of hours. This led to an increase of popularity for international news outlet. Those company can reach to million of people in no time. 
+<p>Now every event in the world can be cover and present to a global audiance in less than a couple of hours. This led to an increase of popularity for international news outlet. Those company can reach to million of people in no time.</p> 
 
-The quickness of the information highway is thrilling but it raises question. We as people have all been guilty at least onece to be a little bit too quick on jugement be it on someone or something and in an era of international coverage where international journalist are covering domestic event the question of impartility is even more actual. 
+<p>The quickness of the information highway is thrilling but it raises question. We as people have all been guilty at least onece to be a little bit too quick on jugement be it on someone or something and in an era of international coverage where international journalist are covering domestic event the question of impartility is even more actual.</p> 
 
-The goal of this blog is to highlight the notion of bias in todays jounalism. The tool we have to work on this are a the <a href= https://www.gdeltproject.org/> GDELT Project </a> database and a computer.
+<p>The goal of this blog is to highlight the notion of bias in todays jounalism. The tool we have to work on this are a the <a href= https://www.gdeltproject.org/> GDELT Project </a> database and a computer.</p>
 
 ### GDELT Project
 
