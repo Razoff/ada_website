@@ -1,19 +1,19 @@
 
 <h1> The bias in international news coverage </h1>
 
-<p> In January, the Knight Foundation issued a new report on “trust, media, and democracy.” It was a long document—71 pages, with eight headings atop 28 bullet points in the “Key Findings” section alone—and took a detailed look at why modern news organizations struggle to “fulfill their democratic responsibilities of informing the public and holding government leaders accountable.”</p>
+<p> In Januaryi 2018, the Knight Foundation issued a new report on “trust, media, and democracy.” It was a long document—71 pages, with eight headings atop 28 bullet points in the “Key Findings” section alone—and took a detailed look at why modern news organizations struggle to “fulfill their democratic responsibilities of informing the public and holding government leaders accountable.”</p>
 
 <p> The report identified many contributing factors, but none more than the perception among the public that the nation’s news organizations weren’t being objective. According to a Gallup-Knight survey conducted for the report, fewer than half of all Americans could think of a news source that “reports the news objectively.” Political partisanship had, apparently, so eroded trust that respondents to a “media trust scale” rated their belief in the news at an abysmal 37 out of 100.</p>
 
 <h2> Introduction </h2>
 
-<p>Today, people have access to more and more information. This increase in information comes in different aspect but in the end the main cause of this phenomena is the worldwide connection between people.</p>
+<p>Nowadays, people have an easy access to information. There are many explanation to this phenomena but the main reason is the worldwide connection between people via technology, in particular social media.</p>
 
-<p>Now every event in the world can be cover and present to a global audiance in less than a couple of hours. This led to an increase of popularity for international news outlet. Those company can reach to million of people in no time.</p> 
+<p>Today any event in the world can be cover and presented to a global audience in less than a couple of hours. This led to an increase of popularity for international news outlet. Those companies can reach to million of people in no time.</p> 
 
-<p>The quickness of the information highway is thrilling but it raises question. We as people have all been guilty at least onece to be a little bit too quick on jugement be it on someone or something and in an era of international coverage where international journalist are covering domestic event the question of impartility is even more actual.</p> 
+<p>The quickness of information sharing is thrilling but it raises question. We all  have all been guilty at least onece to be a little bit too quick on jugement whether on someone or something. Making mistake is part of the human nature, but in an era of international coverage where international journalism covers domestic events the question of impartility is even more actual.</p> 
 
-<p>The goal of this blog is to highlight the notion of bias in todays jounalism. The tool we have to work on this are a the GDELT Project database and a computer.</p>
+<p>The goal of this blog is to highlight the notion of bias in today's journalism. The tool we have to work on this is the GDELT Project database. For more than two months, we worked investigating on this question using the freely provided GDELT project database, Our intention is to demonstrate that we can answer deep questions in society using no more than a computer.</p>
 
 <h3> GDELT Project </h3> 
 
@@ -59,7 +59,7 @@
 
 <iframe src="./assets/plot_high_2.html" frameborder="0" scrolling="no" height="500" width="960"></iframe>
 
-<p>The representation emphasize clearly that the ditribution of event is centered on the USA the western Europe and the come of the middle east countries. Even if there are many event in other country as well all bubbles that really stands out of the rest is for one of the region mentioned before. </p>
+<p>The representation emphasize clearly that the ditribution of event is centered on the USA the western Europe and the some of the middle east countries. Even if there are many event in other country as well all bubbles that really stands out of the rest is for one of the region mentioned before. In the end it seems like the news selections revovles a lot around who the G8 leaders are intereted in.</p>
 
 <p> This phenomena can be explained in different ways. First, many of the international news outlets (we are talking about the really big ones that covers everythin 24/7) are based either in the United State or in Europe (mostly England). It seems that the anglo-saxon countries holds a lot of power influence wise. Their articles are the most represented over the planet which makes at the same time very interesting and very dangerous.</p>
 
@@ -75,6 +75,9 @@
 
 <p> PUT VISUALITION HERE </p>
 
-<p>pp </p>
+<p>We can see that the US ar </p>
 
 <h2> Conclusion </h2>
+
+
+<p>In the end this data story proved that it in general the respresentation of the news is not neutral </p>
