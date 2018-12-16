@@ -59,5 +59,15 @@
 
 <iframe src="./assets/plot_high_2.html" frameborder="0" scrolling="no" height="720" width="960"></iframe>
 
+<p>The representation emphasis clearly that the ditribution of event is centered on the USA the western Europe and the come of the middle east countries. Even if there are many event in other country as well all bubbles that really stands out of the rest is for one of the region mentioned before. </p>
 
+<p> This phenomena can be explained in different ways. First, many of the international news outlets (we are talking about the really big ones that covers everythin 24/7) are based either in the United State or in Europe (mostly England). It seems that the anglo-saxon countries holds a lot of power influence wise. Their articles are the most represented over the planet which makes at the same time very interesting and very dangerous.</p>
+
+<figure>
+	<img src="{{ site.baseurl }}/assets/coverage_animation.gif" alt="image">
+</figure>
+
+<h2> The measure and visualisation of bias </h2>
+
+<p>From the beginning we went through different question and analysis but we left the biggest question on hold. We found that the news were polarised and unevenly distributed but does   </p>
 
