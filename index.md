@@ -55,7 +55,9 @@
 
 <p>Once we figured out that the media were polarized one of the question we asked ourselves was: Is the information evenly distributed ? This question is important since that it would show if the bias is local or global. And if it is global how can one country's belief influence the others.</p> 
 
-<p>To highlight this matter we took advantages of the geographical informations provided by the dataset. The following interactive is showing how the information is unevenly distributed. </p>
+<p>To highlight this matter we took advantages of the geographical informations provided by the dataset. The following interactive map is showing how the information is unevenly distributed. </p>
 
-<iframe src="./assets/plot_high.html" frameborder="0" scrolling="no" height="720" width="960"></iframe>
+<iframe src="./assets/plot_high_2.html" frameborder="0" scrolling="no" height="720" width="960"></iframe>
+
+
 
