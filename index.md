@@ -75,9 +75,8 @@
 
 <iframe src="./assets/Bias_plot_US_news_media.html" frameborder="0" scrolling="no" height="500" width="960"></iframe>
 
-<p>We can see that the US ar </p>
+<p>This interactive illustration highlights the bias of United-State news sources. It is easily recognisable that their political ennemies like Russia or China are being discriminated in front of the news.</p>
 
 <h2> Conclusion </h2>
 
-
-<p>In the end this data story proved that it in general the respresentation of the news is not neutral </p>
+<p>In the end this data story proved that it in general the respresentation of the news is not neutral and that even if a source can be politically alligned when we look at the bigger picture (in our example USA) the majority of the news tend to follow the political agenda. </p>
