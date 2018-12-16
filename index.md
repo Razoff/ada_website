@@ -1,7 +1,7 @@
 
 <h1> The bias in international news coverage </h1>
 
-<p>Find aticle that is meaningful to introduce doubt.</p>
+<p> In January, the Knight Foundation issued a new report on “trust, media, and democracy.” It was a long document—71 pages, with eight headings atop 28 bullet points in the “Key Findings” section alone—and took a detailed look at why modern news organizations struggle to “fulfill their democratic responsibilities of informing the public and holding government leaders accountable.” The report identified many contributing factors, but none more than the perception among the public that the nation’s news organizations weren’t being objective. According to a Gallup-Knight survey conducted for the report, fewer than half of all Americans could think of a news source that “reports the news objectively.” Political partisanship had, apparently, so eroded trust that respondents to a “media trust scale” rated their belief in the news at an abysmal 37 out of 100.</p>
 
 <p>Today, people have access to more and more information. This increase in information comes in different aspect but in the end the main cause of this phenomena is the worldwide connection between people.</p>
 
