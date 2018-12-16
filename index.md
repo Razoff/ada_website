@@ -35,7 +35,7 @@
 
 <figure>
  	<img src="{{ site.baseurl }}/assets/clusters.png" alt="image">
- </figure>
+</figure>
 
 
 <iframe src="./assets/plot_high.html" frameborder="0" scrolling="no" height="720" width="960"></iframe>
