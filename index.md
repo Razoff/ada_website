@@ -17,9 +17,9 @@
 
 <p>To keep it simple every quarter of an hour three new files are uploaded on the server.</p> 
 
-<li> <b>Export :</b>This file holds all the individual event and their geographical informations. It basically answers the questions: Where? Who? What? </li>
+<li> <b>Export :</b> This file holds all the individual event and their geographical informations. It basically answers the questions: Where? Who? What? </li>
 
-<li> <b>Mentions :</b>Each entry in this file is when a news outlet mention one event. It also holds some semantic information about the article like its tone. </li>
+<li> <b>Mentions :</b> Each entry in this file is when a news outlet mention one event. It also holds some semantic information about the article like its tone. </li>
 
 <li> <b>GkG :</b> It is a knowledge graph of the GDELT project  it connects every trait of all organisation and event across the planet into a single massive network that captures what’s happening around the world </li>
 
@@ -33,7 +33,9 @@
 
 <p>From this bag of word we appllied the PCA decomposition. And by using a eigenvector factorisation with some unsupervised machine learning algorithm (Kmeans) for clustering we managed to plot a map of the proximity between the 5000 news outlet with the most themes cited. </p>
 
-![Branching]("./assets/clusters.png")
+<figure>
+ 	<img src="{{ site.baseurl }}/assets/clusters.png" alt="image">
+ </figure>
 
 
 <iframe src="./assets/plot_high.html" frameborder="0" scrolling="no" height="720" width="960"></iframe>
