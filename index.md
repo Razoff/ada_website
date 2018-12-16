@@ -1,7 +1,7 @@
 
 <h1> The bias in international news coverage </h1>
 
-<p>Find aticle that is meaningful to introduce doubt.<p>
+<p>Find aticle that is meaningful to introduce doubt.</p>
 
 <p>Today, people have access to more and more information. This increase in information comes in different aspect but in the end the main cause of this phenomena is the worldwide connection between people.</p>
 
@@ -27,7 +27,7 @@
 
 <h2> Let's talk about news </h2>
 
-<p>a</p>
+<p></p>
 
 
 The end
