@@ -79,4 +79,4 @@
 
 <h2> Conclusion </h2>
 
-<p>In the end this data story proved that it in general the respresentation of the news is not neutral and that even if a source can be politically alligned when we look at the bigger picture (in our example USA) the majority of the news tend to follow the political agenda. </p>
+<p>In the end this data story proved that it in general the respresentation of the news is not neutral and that even if a source can be politically alligned when we look at the bigger picture (in our example the USA) the average tone of the news match the political agenda for the concerned country. </p>
