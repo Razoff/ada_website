@@ -17,25 +17,25 @@
 
 <h3> GDELT Project </h3> 
 
-<p>Since the GDELT dataset will be our main analyse tool let's have a quick look at it. It is a project maintained by google. A huge database that is acualized every fifteen minutes with input of event all around the world.</p>
+<p>Since the GDELT dataset will be our main analyse tool let's have a quick look at it. It is a project maintained by google. A huge database that is refreshed every fifteen minutes with input of events all around the world.</p>
 
 <p>To keep it simple every quarter of an hour three new files are uploaded on the server.</p> 
 
-<li> <b>Export :</b> This file holds all the individual event and their geographical informations. It basically answers the questions: Where? Who? What? </li>
+<li> <b>Export :</b> This file holds all the individual event and their geographical informations. Essentially these files contains the information to answers the questions: Where? Who? What? </li>
 
-<li> <b>Mentions :</b> Each entry in this file is when a news outlet mention one event. It also holds some semantic information about the article like its tone. </li>
+<li> <b>Mentions :</b> Each entry in this file is recorded anytime when a news outlet mention one event. It also holds some semantic information about the article such as its tone. </li>
 
-<li> <b>GkG :</b> It is a knowledge graph of the GDELT project  it connects every trait of all organisation and event across the planet into a single massive network that captures what’s happening around the world </li>
+<li> <b>GkG :</b> It is a knowledge graph of the GDELT project which connects every trait of all organisation and event across the planet into a single massive network that captures what’s happening around the world </li>
 
-<p>With these informations available we could not go wrong so lets look at what we managed to get out of it.</p> 
+<p>With these informations available the possibilities are endless.</p> 
 
 <h2> Let's talk about news </h2>
 
-<p>The first thing we wanted to confirm the hypothesys. Is constant lack of objectivity from news outlet ?</p>
+<p>The first thing we wanted to confirm was the hypothesys. Is there a recurrent lack of objectivity from news outlet ?</p>
 
-<p>We started our investigation using tools gathered during the lecture. We noticed that on every knowledge graph sources are matched with the themes addressed in each of their article. By taking inspiration of the <i>bag of words</i> approach we managed to aggregate enough data to do a <i>bag of themes</i> matrix.</p>
+<p>We started our investigation using tools gathered during the ADA course. We noticed that on every knowledge graph sources are matched with the themes addressed in each of their article. Inspired by the <i>bag of words</i> approach we managed to aggregate enough data to do a <i>bag of themes</i> matrix. This matrix matches all the media source to all themes detected in the knowledge graph throughout time. The matrix contains counts which correspond to the occurence of each theme for a specicific media source</p>
 
-<p>From this bag of word we appllied the PCA decomposition. And by using a eigenvector factorisation with some unsupervised machine learning algorithm (Kmeans) for clustering we managed to plot a map of the proximity between the 5000 news outlet with the most themes cited. </p>
+<p>From this bag of word we appllied the PCA decomposition. And by using a eigenvector factorisation with an unsupervised machine learning algorithm (Kmeans) for clustering we managed to plot a map of the proximity between the 5000 news outlet according to their themes. </p>
 
 <figure>
  	<img src="{{ site.baseurl }}/assets/clusters.png" alt="image">
@@ -73,7 +73,7 @@
 
 <p>To emphasize both the polarity and the uneven ditribution and see what can be the impact for the public on the long run we focus our anlysis on the way american news sources report events all around the world.</p>
 
-<p> PUT VISUALITION HERE </p>
+<iframe src="./assets/Bias_plot_US_news_media.html" frameborder="0" scrolling="no" height="500" width="960"></iframe>
 
 <p>We can see that the US ar </p>
 
