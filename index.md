@@ -9,7 +9,7 @@
 
 <p>The quickness of the information highway is thrilling but it raises question. We as people have all been guilty at least onece to be a little bit too quick on jugement be it on someone or something and in an era of international coverage where international journalist are covering domestic event the question of impartility is even more actual.</p> 
 
-<p>The goal of this blog is to highlight the notion of bias in todays jounalism. The tool we have to work on this are a the [GDELT Project]([https://www.gdeltproject.org/) database and a computer.</p>
+<p>The goal of this blog is to highlight the notion of bias in todays jounalism. The tool we have to work on this are a the <a href=https://www.gdeltproject.org/> GDELT Project </a> database and a computer.</p>
 
 <h3> GDELT Project </h3> 
 
