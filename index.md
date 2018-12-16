@@ -1,7 +1,9 @@
 
 <h1> The bias in international news coverage </h1>
 
-<p> In January, the Knight Foundation issued a new report on “trust, media, and democracy.” It was a long document—71 pages, with eight headings atop 28 bullet points in the “Key Findings” section alone—and took a detailed look at why modern news organizations struggle to “fulfill their democratic responsibilities of informing the public and holding government leaders accountable.” The report identified many contributing factors, but none more than the perception among the public that the nation’s news organizations weren’t being objective. According to a Gallup-Knight survey conducted for the report, fewer than half of all Americans could think of a news source that “reports the news objectively.” Political partisanship had, apparently, so eroded trust that respondents to a “media trust scale” rated their belief in the news at an abysmal 37 out of 100.</p>
+<p> In January, the Knight Foundation issued a new report on “trust, media, and democracy.” It was a long document—71 pages, with eight headings atop 28 bullet points in the “Key Findings” section alone—and took a detailed look at why modern news organizations struggle to “fulfill their democratic responsibilities of informing the public and holding government leaders accountable.”</p>
+
+<p> The report identified many contributing factors, but none more than the perception among the public that the nation’s news organizations weren’t being objective. According to a Gallup-Knight survey conducted for the report, fewer than half of all Americans could think of a news source that “reports the news objectively.” Political partisanship had, apparently, so eroded trust that respondents to a “media trust scale” rated their belief in the news at an abysmal 37 out of 100.</p>
 
 <h2> Introduction </h2>
 
@@ -39,13 +41,21 @@
  	<img src="{{ site.baseurl }}/assets/clusters.png" alt="image">
 </figure>
 
-<p>From the results it seems fairly obvious that theme-wise news outlet are polarized. The next field we investigated was the following. We tried to find waht the underlying themes were reguarding the clustering algorithm. By diving into the decomposition we managed to output the underlying features of the themes regarding to the sources. </p>
+<p>From the results it seems fairly obvious that theme-wise news outlet are polarized. The next field we investigated was the following. We tried to find waht the underlying themes were reguarding the clustering algorithm. By diving into the decomposition we managed to output the underlying features of the themes regarding to the sources. Each of the following graph shows the representation of themes in an underlying feature.</p>
 
 <figure>
 	<img src="{{ site.baseurl }}/assets/theme01.png" alt="image">
 </figure>
 
-<a href=http://www.google.ch/> lol </a>
+<p>Now that is something interesting! Each graph indicates that connoted themes are a very good separator between news sources. For example the first underlying feature shows that are linked to goverment oriented articles the terms looks like it might be domestic news. The second one is more oriented to the quality of life in a country. The third one is more into the reformation aspect of the society and the fourth one clearly covers conflictual news.</p>
+
+<p>This first analyse confirm our doubts concerning the information is in fact heavily polarised. Now that the hypothesis is confirmed what does it mean for the globality of people.</p>
+
+<h2>Who talks ?</h2>
+
+<p>Once we figured out that the media were polarized one of the question we asked ourselves was: Is the information evenly distributed ? This question is important since that it would show if the bias is local or global. And if it is global how can one country's belief influence the others.</p> 
+
+<p>To highlight this matter we took advantages of the geographical informations provided by the dataset. The following interactive is showing how the information is unevenly distributed. </p>
 
 <iframe src="./assets/plot_high.html" frameborder="0" scrolling="no" height="720" width="960"></iframe>
 
